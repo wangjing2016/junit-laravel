@@ -1,0 +1,17 @@
+{
+    "name": "wj\/junit-laravel",
+    "description": "a simplified version of the laravel framework unit",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wj",
+            "email": "1543943215@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wj\\JunitLaravel\\": "src"
+        }
+    }
+}
